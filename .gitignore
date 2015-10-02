@@ -1,1 +1,2 @@
-./lib/php/pg_db.php
+./php/pg_db.php
+.gitignore
